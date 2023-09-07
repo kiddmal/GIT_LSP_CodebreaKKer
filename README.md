@@ -1,1 +1,1 @@
-# Git_LSP_Codebreakker
+# GIT_LSP_Codebreakker
