@@ -7,7 +7,7 @@ public class Logger {
     private Logger() {this.log = "";}
     
 
-    public void logMessage(String text) {
+    public void logText(String text) {
         this.log += text + "\n";
     }
 
